@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    
+    font-family: "zorque";
+}
+
+.wrapper {
+  
+    border: 1px solid red;
+    margin: 10px;
+    font-style:italic;
+     font-size:30px;
+    text-align: center;
+    
+}
+.green{
+    background-color: #B7FF52;
+    
+}
+.subtitle {
+  position: relative
+  margin-top:20px;
+  font-size: 10px;
+}
+  
+}
+.quote{
+  font-style:italic;
+   font-size:10px;
+}
