@@ -1,7 +1,7 @@
 body{
     background-color: lightblue;
     
-    font-family: "zorque";
+    font-family: "bungee";
 }
 
 .wrapper {
@@ -18,13 +18,26 @@ body{
     
 }
 .subtitle {
-  position: relative
-  margin-top:20px;
+  position: relative;
+  margin: 20px;
+  
   font-size: 10px;
 }
   
-}
+
 .quote{
+    margin: 25px;
   font-style:italic;
    font-size:10px;
+}
+.summary {
+    font-size: 1px;
+    text-align: center;
+    margin: 50px;
+}
+.questions {
+    margin: 100px;
+}
+.cast {
+    display:inline ;
 }
