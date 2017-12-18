@@ -8,7 +8,6 @@ body{
   
     border: 1px solid red;
     margin: 10px;
-
      font-size:30px;
     text-align: center;
     
@@ -31,7 +30,7 @@ body{
    font-size:10px;
 }
 .summary {
-    font-size: 12px;
+
     text-align: center;
     margin: 50px;
 }
