@@ -1,5 +1,6 @@
 body{
     background-color: lightblue;
+    background-image: url("Untitled.jpg");
     
     font-family: "bungee";
 }
@@ -37,6 +38,6 @@ body{
 .questions {
     margin: 100px;
 }
-.cast {
-    display:inline ;
+.container{
+    background-color: #fff;
 }
