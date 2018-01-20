@@ -1,9 +1,17 @@
 body{
     background-color: lightblue;
     background-image: url("Untitled.jpg");
-    
+    background-repeat:repeat;
     font-family: "bungee";
 }
+
+   .controller{
+    width: 10px;
+    height: 10px;
+    
+   
+}
+
 
 .wrapper {
   
@@ -14,7 +22,9 @@ body{
     
 }
 .green{
-    background-color: #B7FF52;
+    
+    background: linear-gradient(-90deg,#11AB34,#0DFF43);
+    margin: 50px;
     
 }
 .subtitle {
@@ -24,6 +34,8 @@ body{
   font-size: 10px;
 }
   
+
+
 
 .quote{
     margin: 25px;
